@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.tabel-siswa{
+    width: 60%;
+    background-image:url(/html-css/images/coffee-2511065_1280.jpg);
+    background-size: cover;
+    background-position: 20px;
+    margin: 30px auto 0;
+    border-collapse:collapse ;
+    border:  #fff;
+}
+
+.title-table, .daftar-siswa{
+    height: 70px;
+}
+
+.subjudul, th{
+    padding: 15px;
+    font-size: 23px;
+}
+
+.tabel-siswa, tr, td{
+    padding: 5px;
+    text-align: center;
+    color: #fff;
+    font-weight: 600;
+}
+
+img{
+    border-radius: 5px;
+}
+
+.nama{
+    font-size: 20px;
+    /* font-weight: 600; */
+    color:#fff;
+}
+
+.detail, a{
+    width: 30px;
+}
+
+a{
+    background-color: blue;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 7px;
+}
+
+.nomor{
+    width: 27px;
+}
+
+.foto-profil{
+    width: 50px;
+}
